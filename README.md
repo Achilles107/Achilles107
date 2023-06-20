@@ -60,3 +60,5 @@ Here are some ideas to get you started:
 <!-- Your GitHub stats -->
 ![](https://github-readme-stats.vercel.app/api?username=Achilles107&show_icons=true&include_all_commits=true&count_private=true&theme=synthwave)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Achilles107&layout=donut&theme=synthwave)](https://github.com/Achilles107/github-readme-stats)
+
