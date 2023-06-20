@@ -60,5 +60,3 @@ Here are some ideas to get you started:
 <!-- Your GitHub stats -->
 ![](https://github-readme-stats.vercel.app/api?username=Achilles107&show_icons=true&include_all_commits=true&count_private=true&theme=synthwave)
 
-# :bust_in_silhouette: Visitor Count 
-![Visitor Count](https://profile-counter.glitch.me/Achilles107/count.svg)
