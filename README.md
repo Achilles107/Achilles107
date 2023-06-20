@@ -1,11 +1,10 @@
 ### Hi there 👋
-
-
-<h1 align="center">I'm Abhinav Shukla</h1>
-<h3 align="center">A Machine Learning enthusiast</h3>
-
-![](https://github-profile-trophy.vercel.app/?username=Achilles107&theme=radical)
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/w7CP59oLYw6PK/giphy.gif" width="300"/>
+  <h1 align="center">I'm Abhinav Shukla</h1>
+  <h3 align="center">Machine Learning enthusiast and a Ramen Lover</h3>
+  <img src="https://komarev.com/ghpvc/?username=Achilles107&style=flat-square&color=green" alt=""/>
+</div>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently pursuing **Masters in Computer Science**
