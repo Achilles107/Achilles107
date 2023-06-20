@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/w7CP59oLYw6PK/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/w7CP59oLYw6PK/giphy.gif" width="200"/>
   <h1 align="center">I'm Abhinav Shukla</h1>
   <h3 align="center">Machine Learning enthusiast and a Ramen Lover</h3>
   <img src="https://komarev.com/ghpvc/?username=Achilles107&style=flat-square&color=green" alt=""/>
