@@ -4,6 +4,7 @@
 <h1 align="center">I'm Abhinav Shukla</h1>
 <h3 align="center">A Machine Learning enthusiast</h3>
 
+![](https://github-profile-trophy.vercel.app/?username=Achilles107&theme=radical)
 
 Here are some ideas to get you started:
 
@@ -58,7 +59,7 @@ Here are some ideas to get you started:
 
 ---
 <!-- Your GitHub stats -->
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Achilles107&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=Achilles107&theme=radical&show_icons=true&include_all_commits=true&count_private=true)
 
 # :bust_in_silhouette: Visitor Count 
 ![Visitor Count](https://profile-counter.glitch.me/Achilles107/count.svg)
