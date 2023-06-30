@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently pursuing **Masters in Computer Science**
 - 🌱 I’m currently learning **Large Language Models**
 - 💬 Ask me about **Machine Learning and Natural Langauge Processing**
-- 📫 How to reach me: Email me at **abhinavshukla835@gmail.com**
+- 📫 Email me at **abhinavshukla835@gmail.com**
 
 - ⚡ Fun fact: In 2017, Sophia became the first robot in the world to receive citizenship, marking a significant milestone in the integration of AI and robotics into society.
 
