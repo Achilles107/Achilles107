@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about **Machine Learning and Natural Langauge Processing**
 - 📫 Email me at **abhinavshukla835@gmail.com**
 
-- ⚡ Fun fact: In 2017, Sophia became the first robot in the world to receive citizenship, marking a significant milestone in the integration of AI and robotics into society.
+- ⚡ Fun fact: In 2017, Sophia became the first robot in the world to receive citizenship, marking a significant milestone in integrating AI and robotics into society.
 
 <h3 align="left">Connect with me on:</h3>
 <p align="left">
